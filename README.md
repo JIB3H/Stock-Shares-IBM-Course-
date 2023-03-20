@@ -1,4 +1,4 @@
-# Stock-Shares-IBM-Course-
+# Stock Shares - IBM Course
 Analyzing Historical Stock/Revenue Data and Building a Dashboard
 
 Practical work done in the IBM - Python Project For Data Science course.
